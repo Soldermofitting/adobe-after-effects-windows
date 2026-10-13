@@ -4,8 +4,13 @@
 
 Adobe After Effects · MoggyDay · 2026 · v26.5
 
-# Adobe After Effects 2026 “Pro for Windows: motion, compositing, expressions” [v26.5]
+# Adobe After Effects 2026 “for Windows: motion, compositing, expressions” [v26.5]
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-after-effects"><img src="docs/media/shot-1.jpg" alt="about" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-after-effects"><img src="docs/media/shot-2.jpg" alt="composition" width="280"></a>
+  <a href="https://moggydayprogram.com/programs/adobe-after-effects"><img src="docs/media/shot-3.jpg" alt="workspace" width="280"></a>
+</p>
 <p><img src="docs/media/logos/adobe-after-effects.svg" alt="Adobe After Effects" height="48"></p>
 
 MoggyDay keeps one stable URL for Adobe After Effects: EN / RU. Motion and compositing next to Premiere. Russian UI, 2.8 GB, Windows x64.
