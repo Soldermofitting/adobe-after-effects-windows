@@ -2,6 +2,10 @@
 
 **Language / Язык:** the [GitHub Pages site](https://soldermofitting.github.io/adobe-after-effects-windows/) picks English or Russian from the browser. Switch: [English](https://soldermofitting.github.io/adobe-after-effects-windows/?lang=en) · [Русский](https://soldermofitting.github.io/adobe-after-effects-windows/?lang=ru)
 
+<p>
+  <a href="https://moggydayprogram.com/programs/adobe-after-effects"><img src="docs/media/preview.jpg" alt="After Effects preview" width="640"></a>
+</p>
+
 Adobe After Effects · MoggyDay · 2026 · v26.5
 
 # Adobe After Effects 2026 “for Windows: motion, compositing, expressions” [v26.5]
